@@ -4,7 +4,7 @@
 
 Не представляю свою жизнь без книг📚, музыки🎼 🎹 и катания на мотоцикле🏍️.
 
-*Чем пользуюсь при изучении Java*:
+*Что использую в своих проектах на Java*:
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=flat&logo=SpringBoot&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=PostgreSQL&logoColor=black)
